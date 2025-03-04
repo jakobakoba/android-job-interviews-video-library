@@ -40,6 +40,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 ### [Feb 11, 2025 Tech Talk & Тестовое собеседование Junior Android разработчика ](https://www.youtube.com/watch?v=ShLN_VZlIKU) <a name="russian3"></a>
 
 <img src="screenshots/russian3.png" width="700">
+
 *   [Back to list](#russian-videos)
 
 ---
