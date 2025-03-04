@@ -12,6 +12,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 1.  [Feb 24, 2025 SENIOR ANDROID мок-интервью полная теория | Kotlin/Java | Android | Coroutines | System Design](#russian1)
 2.  [Feb 9, 2025 Собеседование Junior Android](#russian2)
 3.  [Feb 11, 2025 Tech Talk & Тестовое собеседование Junior Android разработчика ](#russian3)
+4.  [Feb 20, 2025 Мок собеседование Android разработчика в Контур: архитектура и кодинг приложения](#russian4)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -40,6 +41,13 @@ A curated list of helpful videos for preparing for Android job interviews.
 ### [Feb 11, 2025 Tech Talk & Тестовое собеседование Junior Android разработчика ](https://www.youtube.com/watch?v=ShLN_VZlIKU) <a name="russian3"></a>
 
 <img src="screenshots/russian3.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Feb 20, 2025 Мок собеседование Android разработчика в Контур: архитектура и кодинг приложения](https://www.youtube.com/watch?v=KY0uBfEkTho) <a name="russian4"></a>
+
+<img src="screenshots/russian4.png" width="700">
 
 *   [Back to list](#russian-videos)
 
