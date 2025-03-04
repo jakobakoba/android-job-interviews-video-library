@@ -14,6 +14,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 3.  [Feb 11, 2025 Tech Talk & Тестовое собеседование Junior Android разработчика ](#russian3)
 4.  [Feb 20, 2025 Мок собеседование Android разработчика в Контур: архитектура и кодинг приложения](#russian4)
 5.  [Oct 9, 2024 Публичное собеседование с X5 Tech: Android-разработчик](#russian5)
+6.  [Mar 10, 2024 Собеседование по Kotlin. Проводит Кирилл Розов](#russian6)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -56,6 +57,13 @@ A curated list of helpful videos for preparing for Android job interviews.
 ### [Oct 9, 2024 Публичное собеседование с X5 Tech: Android-разработчик](https://www.youtube.com/watch?v=pXnKTHKrgf0) <a name="russian5"></a>
 
 <img src="screenshots/russian5.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Mar 10, 2024 Собеседование по Kotlin. Проводит Кирилл Розов](https://www.youtube.com/watch?v=62XBpj2hrQw) <a name="russian6"></a>
+
+<img src="screenshots/russian6.png" width="700">
 
 *   [Back to list](#russian-videos)
 
