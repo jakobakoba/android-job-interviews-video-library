@@ -22,7 +22,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 
 ---
 
-## Russian videos
+## Russian 
 
 ### [Feb 24, 2025 SENIOR ANDROID мок-интервью полная теория | Kotlin/Java | Android | Coroutines | System Design](https://www.youtube.com/watch?v=MgWUtFK8TLA) <a name="russian1"></a>
 
@@ -60,7 +60,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 *   [Back to list](#russian-videos)
 
 ---
-## English videos
+## English
 
 ### [Jun 17, 2024 Technical Interview for Mobile Developer](https://www.youtube.com/watch?v=O7AZATJ3PXM) <a name="english1"></a>
 
