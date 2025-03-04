@@ -17,11 +17,11 @@ A curated list of helpful videos for preparing for Android job interviews.
 ## English Videos <a name="english-videos"></a>
 
 1.  [Jun 17, 2024 Technical Interview for Mobile Developer](#english1)
-2.  [LeetCode - Dynamic Programming](#leetcode-dynamic-programming)
+2.  [Jun 17, 2024 Technical Interview for Mobile Developer](#english2)
 
 ---
 
-## Russian
+## Russian videos
 
 ### [Feb 24, 2025 SENIOR ANDROID мок-интервью полная теория | Kotlin/Java | Android | Coroutines | System Design](https://www.youtube.com/watch?v=MgWUtFK8TLA) <a name="russian1"></a>
 
@@ -52,7 +52,7 @@ A curated list of helpful videos for preparing for Android job interviews.
 *   [Back to list](#russian-videos)
 
 ---
-## English 
+## English videos
 
 ### [Jun 17, 2024 Technical Interview for Mobile Developer](https://www.youtube.com/watch?v=O7AZATJ3PXM) <a name="english1"></a>
 
@@ -61,6 +61,10 @@ A curated list of helpful videos for preparing for Android job interviews.
 *   [Back to list](#english-videos)
 
 ---
+### [Jun 17, 2024 Technical Interview for Mobile Developer](https://www.youtube.com/watch?v=K-ngofj1vFQ) <a name="english2"></a>
 
+<img src="screenshots/english2.png" width="700">
 
+*   [Back to list](#english-videos)
 
+---
