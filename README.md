@@ -17,6 +17,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 4.  [Feb 20, 2025 Мок собеседование Android разработчика в Контур: архитектура и кодинг приложения](#russian4)
 5.  [Oct 9, 2024 Публичное собеседование с X5 Tech: Android-разработчик](#russian5)
 6.  [Mar 10, 2024 Собеседование по Kotlin. Проводит Кирилл Розов](#russian6)
+7.  [Feb 5, 2025 Разбор задач в Wildberries на 600к / Собеседование Android](#russian7)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -66,6 +67,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Mar 10, 2024 Собеседование по Kotlin. Проводит Кирилл Розов](https://www.youtube.com/watch?v=62XBpj2hrQw) <a name="russian6"></a>
 
 <img src="screenshots/russian6.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Feb 5, 2025 Разбор задач в Wildberries на 600к / Собеседование Android](https://www.youtube.com/watch?v=vSHqR8W6-pY) <a name="russian7"></a>
+
+<img src="screenshots/russian7.png" width="700">
 
 *   [Back to list](#russian-videos)
 
