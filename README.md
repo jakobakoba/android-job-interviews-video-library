@@ -2,7 +2,7 @@
 
 A curated list of helpful videos for preparing for Android job interviews.
 
-If you have or know of any Android job interview videos on YouTube, please send me the link.: https://forms.gle/2xKMf8eaq4MWqvFq9
+If you have or know of any Android job interview videos on YouTube, please send me the link: https://forms.gle/2xKMf8eaq4MWqvFq9
 
 ## Table of Contents
 
