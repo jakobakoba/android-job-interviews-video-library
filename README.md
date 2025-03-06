@@ -34,7 +34,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 
 ### [Feb 24, 2025 SENIOR ANDROID мок-интервью полная теория | Kotlin/Java | Android | Coroutines | System Design](https://www.youtube.com/watch?v=MgWUtFK8TLA) <a name="russian1"></a>
 
-<img src="screenshots/1.png" width="700">
+<img src="screenshots/russian1.png" width="700">
 
 *   [Back to list](#russian-videos)
 
