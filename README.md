@@ -25,6 +25,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 1.  [Jun 17, 2024 Technical Interview for Mobile Developer](#english1)
 2.  [Jun 17, 2024 Technical Interview for Mobile Developer](#english2)
 3.  [Nov 11, 2022 REAL ANDROID DEVELOPER INTERVIEW](#english3)
+4.  [Nov 18, 2022 SYSTEM DESIGN INTERVIEW - ANDROID DEVELOPMENT](#english4)
 
 ---
 
@@ -106,6 +107,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Nov 11, 2022 REAL ANDROID DEVELOPER INTERVIEW](https://www.youtube.com/watch?v=8OPPk-eEcfQ) <a name="english3"></a>
 
 <img src="screenshots/english3.png" width="700">
+
+*   [Back to list](#english-videos)
+
+---
+### [Nov 18, 2022 SYSTEM DESIGN INTERVIEW - ANDROID DEVELOPMENT](https://www.youtube.com/watch?v=qNOtBuqLbEM) <a name="english4"></a>
+
+<img src="screenshots/english4.png" width="700">
 
 *   [Back to list](#english-videos)
 
