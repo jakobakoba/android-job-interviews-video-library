@@ -20,6 +20,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 7.  [Feb 5, 2025 Разбор задач в Wildberries на 600к / Собеседование Android](#russian7)
 8.  [Mar 21, 2024 Собеседование на Mobile Developer. Сергей Ермолаев, Авито](#russian8)
 9.  [Apr 19, 2023 Публичное собеседование Android-разработчика с компанией Магнит](#russian9)
+10. [Sep 8, 2023 Cобеседование Android-разработчика. Максим Качинкин, Dodo Engineering](#russian10)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -92,6 +93,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Apr 19, 2023 Публичное собеседование Android-разработчика с компанией Магнит](https://www.youtube.com/watch?v=6pEb4ihnXo0) <a name="russian9"></a>
 
 <img src="screenshots/russian9.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Sep 8, 2023 Cобеседование Android-разработчика. Максим Качинкин, Dodo Engineering](https://www.youtube.com/watch?v=4Mkrk3YDuCw) <a name="russian10"></a>
+
+<img src="screenshots/russian10.png" width="700">
 
 *   [Back to list](#russian-videos)
 
