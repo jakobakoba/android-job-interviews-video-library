@@ -23,6 +23,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 10. [Sep 8, 2023 Cобеседование Android-разработчика. Максим Качинкин, Dodo Engineering](#russian10)
 11. [Sep 22, 2023 Собеседование на Mobile Developer. Алексей Панов, Контур](#russian11)
 12. [Nov 20, 2021 Android Junior Interview Собеседование на позицию андроид джуниор разработчик. 2021 год. EasyCodeRu](#russian12)
+13. [Nov 1, 2023 Собеседование с Михаилом Левченко](#russian13)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -116,6 +117,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Nov 20, 2021 Android Junior Interview Собеседование на позицию андроид джуниор разработчик. 2021 год. EasyCodeRu](https://www.youtube.com/watch?v=M4rXGptuEWQ) <a name="russian12"></a>
 
 <img src="screenshots/russian12.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Nov 1, 2023 Собеседование с Михаилом Левченко](https://www.youtube.com/watch?v=d4iq9-ZxqCw) <a name="russian13"></a>
+
+<img src="screenshots/russian13.png" width="700">
 
 *   [Back to list](#russian-videos)
 
