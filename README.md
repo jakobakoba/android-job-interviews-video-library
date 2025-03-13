@@ -25,6 +25,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 12. [Nov 20, 2021 Android Junior Interview Собеседование на позицию андроид джуниор разработчик. 2021 год. EasyCodeRu](#russian12)
 13. [Nov 1, 2023 Собеседование с Михаилом Левченко](#russian13)
 14. [Jan 20, 2024 Мок-собеседование Junior Android developer](#russian14)
+15. [Mar 12, 2025 #FaangTalk 77 - Android System Design](#russian15)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -133,6 +134,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Jan 20, 2024 Мок-собеседование Junior Android developer](https://www.youtube.com/watch?v=3pZ-gHRr-LY) <a name="russian14"></a>
 
 <img src="screenshots/russian14.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Mar 12, 2025 #FaangTalk 77 - Android System Design](https://www.youtube.com/watch?v=MYwAJQF9lOw) <a name="russian15"></a>
+
+<img src="screenshots/russian15.png" width="700">
 
 *   [Back to list](#russian-videos)
 
