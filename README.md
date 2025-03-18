@@ -8,6 +8,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 
 *   [Russian Videos](#russian-videos)
 *   [English Videos](#english-videos)
+*   [Other materials](#materials)
 
 ## Russian Videos <a name="russian-videos"></a>
 
@@ -34,6 +35,11 @@ If you have or know of any Android job interview videos on YouTube, please send 
 3.  [Nov 11, 2022 REAL ANDROID DEVELOPER INTERVIEW](#english3)
 4.  [Nov 18, 2022 SYSTEM DESIGN INTERVIEW - ANDROID DEVELOPMENT](#english4)
 5.  [Mar 19, 2022 Learn about Android Technical Phone Screen at LinkedIn](#english5)
+
+## Other materials <a name="materials"></a>
+1. https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1
+2. https://iartr.notion.site/
+3. https://github.com/amitshekhariitbhu/android-interview-questions
 
 ---
 
