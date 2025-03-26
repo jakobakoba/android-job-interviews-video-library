@@ -38,9 +38,10 @@ If you have or know of any Android job interview videos on YouTube, please send 
 5.  [Mar 19, 2022 Learn about Android Technical Phone Screen at LinkedIn](#english5)
 
 ## Other materials <a name="materials"></a>
-1. https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1
-2. https://iartr.notion.site/
-3. https://github.com/amitshekhariitbhu/android-interview-questions
+1. база знаний: https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1
+2. база знаний: https://iartr.notion.site/
+3. вопросы: https://github.com/amitshekhariitbhu/android-interview-questions
+4. вопросы: https://nurlandroid.com/?p=615
 
 ---
 
