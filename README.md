@@ -153,7 +153,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 *   [Back to list](#russian-videos)
 
 ---
-### [Aug 26, 2022 Экспертное собеседование на позицию Senior Android разработчика](https://www.youtube.com/watch?v=MYwAJQF9lOw) <a name="russian16"></a>
+### [Aug 26, 2022 Экспертное собеседование на позицию Senior Android разработчика](https://www.youtube.com/watch?v=61aFEG97GrE) <a name="russian16"></a>
 
 <img src="screenshots/russian16.png" width="700">
 
