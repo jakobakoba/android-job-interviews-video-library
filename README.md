@@ -28,6 +28,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 14. [Jan 20, 2024 Мок-собеседование Junior Android developer](#russian14)
 15. [Mar 12, 2025 #FaangTalk 77 - Android System Design](#russian15)
 16. [Aug 26, 2022 Экспертное собеседование на позицию Senior Android разработчика](#russian16)
+17. [Архитектурное собеседование Android разработчика в формате гемблинга!](#russian17)
 
 ## English Videos <a name="english-videos"></a>
 
@@ -156,6 +157,13 @@ If you have or know of any Android job interview videos on YouTube, please send 
 ### [Aug 26, 2022 Экспертное собеседование на позицию Senior Android разработчика](https://www.youtube.com/watch?v=61aFEG97GrE) <a name="russian16"></a>
 
 <img src="screenshots/russian16.png" width="700">
+
+*   [Back to list](#russian-videos)
+
+---
+### [Архитектурное собеседование Android разработчика в формате гемблинга!](https://www.youtube.com/watch?v=gP2zf6wAIZ4) <a name="russian17"></a>
+
+<img src="screenshots/russian17.png" width="700">
 
 *   [Back to list](#russian-videos)
 
