@@ -51,7 +51,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 9. system design: https://github.com/iartr/mobile-system-design
 10. system design: https://github.com/weeeBox/mobile-system-design
 
-## JobBoards <a name="jobboards"></a>
+## Job Boards <a name="jobboards"></a>
 1. https://hiring.cafe
 
 ---
