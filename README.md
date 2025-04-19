@@ -48,8 +48,10 @@ If you have or know of any Android job interview videos on YouTube, please send 
 6. вопросы-ответы: https://cactus-dev.notion.site/e71fb7b5652a4be39c5fe305a6521247
 7. вопросы: https://docs.google.com/spreadsheets/d/1lRBiGiQc20d9mr_bNixmdaBW6HQ_daIqoxmv44P8ANE/edit?gid=0#gid=0
 8. вопросы: https://docs.google.com/spreadsheets/d/1DRiPl3bWVkNurPw3oKjb4HLtld5g5jM8tSQppFvbA9c/edit?usp=sharing
-9. system design: https://github.com/iartr/mobile-system-design
-10. system design: https://github.com/weeeBox/mobile-system-design
+9. вопросы: https://docs.google.com/spreadsheets/d/1Ccda2FtkbR0nkwgKnlTnS4QfHGDxi_kj/edit?gid=1749489687#gid=1749489687
+10. HR вопросы: https://docs.google.com/spreadsheets/d/18cKFaH11p9TjeKjcupt03Dz5873iKIQ65hvH0QFKpEg/edit?gid=0#gid=0
+11. system design: https://github.com/iartr/mobile-system-design
+12. system design: https://github.com/weeeBox/mobile-system-design
 
 ## Job Boards <a name="jobboards"></a>
 1. https://hiring.cafe
