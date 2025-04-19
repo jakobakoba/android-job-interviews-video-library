@@ -43,6 +43,9 @@ If you have or know of any Android job interview videos on YouTube, please send 
 2. база знаний: https://iartr.notion.site/
 3. вопросы: https://github.com/amitshekhariitbhu/android-interview-questions
 4. вопросы: https://nurlandroid.com/?p=615
+5. вопросы-ответы: https://github.com/Senchick/android-interview
+6. system design: https://github.com/iartr/mobile-system-design
+7. system design: https://github.com/weeeBox/mobile-system-design
 
 ---
 
