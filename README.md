@@ -46,7 +46,7 @@ If you have or know of any Android job interview videos on YouTube, please send 
 4. вопросы: https://nurlandroid.com/?p=615
 5. вопросы-ответы: https://github.com/Senchick/android-interview
 6. вопросы-ответы: https://cactus-dev.notion.site/e71fb7b5652a4be39c5fe305a6521247
-7. вопросы: https://docs.google.com/document/d/1AyBQJPcR12kEvWgSBt1pX8czp6QsYLfOoCq5tPtsIpA/edit?tab=t.0#heading=h.s3iof9ife815
+7. вопросы: https://docs.google.com/spreadsheets/d/1lRBiGiQc20d9mr_bNixmdaBW6HQ_daIqoxmv44P8ANE/edit?gid=0#gid=0
 8. вопросы: https://docs.google.com/spreadsheets/d/1DRiPl3bWVkNurPw3oKjb4HLtld5g5jM8tSQppFvbA9c/edit?usp=sharing
 9. system design: https://github.com/iartr/mobile-system-design
 10. system design: https://github.com/weeeBox/mobile-system-design
